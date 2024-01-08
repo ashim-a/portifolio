@@ -171,7 +171,7 @@ section{
 }
 
 .about-img img{
-        width: 35vw;
+        width: 25vw;
         border-radius: 250rem;
 }
 .heading{
@@ -469,7 +469,8 @@ section{
     }
 
     .about-img {
-        width: 70vw;
+        width: 72vw;
+      
         margin-top: 4rem;
     }
 
@@ -507,7 +508,7 @@ section{
         width: 90vw;
     }
     .about-img img {
-        width: 90vw;
+        width: 70vw;
     }
 
     .footer{
